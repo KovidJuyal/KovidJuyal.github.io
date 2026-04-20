@@ -1,0 +1,123 @@
+cv:
+  name: "Kovid Kumar Juyal"
+  location: "Prayagraj, India"
+  email: "kovidjuyalp1@gmail.com"
+  phone: "tel:+91-7037576983"
+  website: ""
+  resume_url: ""
+  social_networks:
+    - network: "LinkedIn"
+      username: "KovidJuyal"
+    - network: "GitHub"
+      username: "KovidJuyal"
+
+  sections:
+    intro:
+      - "B.Tech IT student at IIIT Allahabad with strong expertise in backend systems, distributed architectures, and competitive programming."
+      - "Experienced in building scalable systems including load balancers and full-stack applications."
+      - "Passionate about system design, problem-solving, and building production-level software."
+
+    technologies:
+      - label: "Languages"
+        details: "C, C++, JavaScript, HTML, CSS"
+      - label: "Technologies/Frameworks"
+        details: "React.js, Node.js, MongoDB, MySQL, Git, GitHub"
+      - label: "Core Subjects"
+        details: "Data Structures, Algorithms, OOP, Operating Systems, DBMS"
+
+    experience:
+      - company: "IIIT Allahabad"
+        position: "Summer Internship | Load Balancer"
+        location: "Prayagraj, India"
+        start_date: "2025-05"
+        end_date: "2025-07"
+        highlights:
+          - "Architected a scalable asynchronous load balancer with Weighted Round Robin, Least Connection, and Consistent Hashing, boosting throughput by 35%"
+          - "Automated health checks and retry mechanisms achieving 99.99% uptime via intelligent routing"
+          - "Improved reliability and traceability by 30% with structured logging and monitoring"
+        tech_stack: ["Node.js", "Distributed Systems"]
+
+      - company: "Roaming Duniya"
+        position: "Software Development Engineer (SDE) Intern"
+        location: ""
+        start_date: "2025-05"
+        end_date: "2025-07"
+        highlights:
+          - "Engineered backend modules for auth, booking, and inquiries using Node.js for 1000+ users"
+          - "Developed RESTful APIs with Express reducing latency by 25%"
+          - "Refactored backend architecture for modularity and scalability"
+        tech_stack: ["Node.js", "Express", "JWT"]
+
+    education:
+      - institution: "Indian Institute of Information Technology, Allahabad"
+        location: "Prayagraj, India"
+        area: "Information Technology"
+        degree: "B.Tech"
+        start_date: "2022-11"
+        end_date: "Present"
+        highlights:
+          - "Minor: Entrepreneurship"
+          - "CGPA: 7.75/10"
+
+      - institution: "Sanfort World School"
+        location: "Moradabad, Uttar Pradesh"
+        area: "PCM (CBSE)"
+        degree: "Post-Matriculation"
+        start_date: "2021-04"
+        end_date: "2022-07"
+        highlights:
+          - "Percentage: 96.2%"
+
+    professional_projects:
+      - name: "College Events and Management"
+        date: "2023-09 – 2023-11"
+        show_on_resume: true
+        highlights:
+          - "Built platform for event bookings and management for 100+ organizers"
+          - "Reduced response time to under 2 hours using optimized backend workflows"
+          - "Improved booking efficiency by 40% for 2000+ students"
+        tech_stack: ["React", "Node.js", "MySQL"]
+
+      - name: "Multi-Dataset CNN Optimization for Character Recognition"
+        date: "2025-01 – 2025-04"
+        show_on_resume: true
+        highlights:
+          - "Designed CNN for MNIST, EMNIST, KMNIST datasets"
+          - "Integrated SE blocks, label smoothing, and data augmentation"
+          - "Achieved 99.3% (MNIST), 90% (EMNIST), 88% (KMNIST)"
+          - "Performed comparative analysis of architectures"
+        tech_stack: ["Python", "CNN", "Deep Learning"]
+
+    achievements:
+      - name: "Competitive Programming"
+        date: ""
+        highlights:
+          - "Codeforces Expert (1630), LeetCode Knight (1905)"
+
+      - name: "Meta HackerCup"
+        date: ""
+        highlights:
+          - "Ranked 4600 globally out of 30,000+ participants"
+
+      - name: "Sports Achievements"
+        date: ""
+        highlights:
+          - "Bronze Medalist in Powerlifting (66–75 kg)"
+          - "Silver Medalist in Tug of War"
+
+      - name: "JEE Achievements"
+        date: "2022"
+        highlights:
+          - "AIR 96 in JEE Main B.Arch among 1.4M+ candidates"
+          - "AIR 23 in JEE Main B.Plan"
+
+    leadership:
+      - name: "Coordinator, Gravity (Technical Society, IIIT-A)"
+        date: "2024-08 – Present"
+        highlights:
+          - "Improved outreach efficiency by 2x during major events"
+
+      - name: "Executive, Inter-IIIT Sports Meet"
+        date: "2024-01 – 2024-04"
+        highlights:
+          - "Managed logistics for 1700+ participants across 22+ IIITs"
